@@ -1,8 +1,7 @@
-Everything in this repository is purely for educational use.
-It is simply exploratory data analysis and includes the implementations of different methods like high-pass filters or Short Time Fourier Transforms to look for anything significant in the data.
+This code loads, processes and analyses digitized radiofrequency (RF) data from the X4 system, Tiresias [1]. The experimental setups also include data from Magic Mirrors. 
 
-All the code written here will supplement a set of Python scripts (to be written) which will prepare and process radar data.
+It will contain machine learning models in the futuer, along with classifiers to analyse Doppler spectrograms.
 
-No practices have been implemented because the program structure itself has not been decided. Purely for visual aid and curiosity.
 
-A well-structured program is to be written once real experimental data has been gathered.
+[1]: Tiresias: A low-cost networked UWB radar system for in-home monitoring of dementia patients https://ieeexplore.ieee.org/document/9630533
+[2]: Magic Mirrors: Active Frequency-Selective Surface Beacons for Synchronization, Communication, and Identification in Biomedical Radar https://ieeexplore.ieee.org/document/10549589
