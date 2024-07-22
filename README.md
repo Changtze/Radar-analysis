@@ -4,6 +4,5 @@ It will contain machine learning models in the futuer, along with classifiers to
 
 
 [1]: Tiresias: A low-cost networked UWB radar system for in-home monitoring of dementia patients https://ieeexplore.ieee.org/document/9630533
-\
 
 [2]: Magic Mirrors: Active Frequency-Selective Surface Beacons for Synchronization, Communication, and Identification in Biomedical Radar https://ieeexplore.ieee.org/document/10549589
